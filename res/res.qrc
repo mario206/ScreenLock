@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>left_bg_default.bmp</file>
+        <file>photo_default.bmp</file>
+        <file>right_bg_default.jpg</file>
+        <file>reset.bmp</file>
+    </qresource>
+</RCC>
